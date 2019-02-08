@@ -1,4 +1,4 @@
-# Telcom-Customer-Churn-Prediction:
+# Telcom-Customer-Churn-Prediction
 Data Visualization and Predictive analysis in R
 Dataset Description:
 
@@ -15,7 +15,9 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 Inspiration:
+
 By the end of this Analysis, you would be able to answer below questions-
+
 How likely are customers willing to stay or leave the current service provider?
 
 What factors influence the customers to leave current service provider?
