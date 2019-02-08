@@ -1,5 +1,4 @@
-# Telcom-Customer-Churn-Prediction
-Data Visualization and Predictive analysis in R
+# Telcom-Customer-Churn-Analysis
 
 Dataset Question:
 What factors influence customers to part ways with their existing service provider ?
