@@ -16,7 +16,7 @@ Demographic info about customers – gender, age range, and if they have partner
 
 Inspiration:
 
-By the end of this Analysis, you would be able to answer below questions-
+By the end of this Analysis, we would be able to answer below questions-
 
 How likely are customers willing to stay or leave the current service provider?
 
